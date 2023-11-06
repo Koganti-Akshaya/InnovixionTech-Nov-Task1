@@ -1,2 +1,2 @@
 # InnovixionTech-Nov-Task1
-An online notes-making app created using JavaScript.
+An online notes-making app created using JavaScript is a web application that allows users to create, edit, and organize digital notes. It leverages JavaScript to provide interactive features, such as real-time text editing, drag-and-drop functionality, and dynamic content updates. Users can easily input and format their notes, save them for future access, and organize them into categories or folders. JavaScript enhances the app's responsiveness and user experience, making it a seamless tool for digital note-taking and management on the web.
